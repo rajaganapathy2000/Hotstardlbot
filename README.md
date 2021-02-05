@@ -1,8 +1,4 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
-
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
-
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+Hotstar Downloader Bot
 
 ### Features
 
@@ -12,28 +8,12 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 👉 Permanent thumbnail support.
 
-👉 Added HOTSTAR Link Support!!  (Currently Not Working due to youtube-dl problems)
+👉 Added HOTSTAR Link Support!
 
 
-
-### Installation
-
-#### The Easiest Way
-
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
-
-#### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Turbo-URL-Uploader2.0)
 
-#### Run in your VPS
-```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
-cd URLuploader-With-Hotstar
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 bot.py
-```
 
 ### Commands
 
