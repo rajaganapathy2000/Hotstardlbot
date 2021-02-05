@@ -24,7 +24,7 @@ from helper_funcs.display_progress import humanbytes
 from helper_funcs.help_uploadbot import DownLoadFile
 
 
-@Client.on_message(filters.private & filters.regex(pattern=".*http.*"))
+@Client.on_message(filters.private & filters.regex(pattern=".*https://www.hotstar.*"))
 async def echo(bot, update):
     if update.from_user.id in Config.BANNED_USERS:
         await bot.delete_messages(
@@ -33,7 +33,7 @@ async def echo(bot, update):
             revoke=True
         )
         return
-    intmsg = await update.reply_text("Analyzing given link...", quote=True)   
+    intmsg = await update.reply_text("Analyzing Your Hotstar link...", quote=True)   
     url = update.text
     youtube_dl_username = None
     youtube_dl_password = None
