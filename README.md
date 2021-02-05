@@ -12,7 +12,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Turbo-URL-Uploader2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Hotstar-Downloader/)
 
 
 ### Commands
