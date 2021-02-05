@@ -2,16 +2,16 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Asuran URL Upload Bot!
+This is a Asuran Hotstar Download Bot!
 
-<b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
+<b>Please send me any Free Hotstar link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
 Support Group : @SerialCoIng
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hai I'am a Hotstar Downloader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
