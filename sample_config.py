@@ -43,7 +43,7 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3600
 
     # watermark file
-    DEF_WATER_MARK_FILE = ""
+    DEF_WATER_MARK_FILE = "© @JAsuran"
 
     # Sql Database url
     DB_URI = os.environ.get("DATABASE_URL", "")
