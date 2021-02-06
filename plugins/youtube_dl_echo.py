@@ -256,7 +256,8 @@ async def echo(bot, update):
             Translation.DOWNLOAD_START,
             update.message_id,
             update.chat.id
-        )        await intmsg.delete()
+        )        
+        await intmsg.delete()
         await bot.send_message(
             chat_id=update.chat.id,
             text=Translation.FORMAT_SELECTION.format(thumbnail) + "\n\n" + Translation.SET_CUSTOM_USERNAME_PASSWORD,
