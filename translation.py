@@ -1,6 +1,6 @@
 class Translation(object):
 
-    START_TEXT = """Hello,
+    START_TEXT = """Hello 👋,
 
 This is a Hotstar Download Bot!
 
@@ -11,7 +11,7 @@ This is a Hotstar Download Bot!
 Support Group : @SeriesDiscussionForum
 """
 
-    HELP_USER = """Hai I'am a Hotstar Downloader bot..
+    HELP_USER = """Hi I'am a Hotstar Downloader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -33,19 +33,19 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Contact @Rajaganapathy2000</a>"
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "Trying to download 📥 your file..."
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "Uploading 📤 now.."
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds. 🥳"
 
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.🤧🤐😵"
 
-    SAVED_CUSTOM_THUMB_NAIL = "Custom thumbnail saved. This will be permanent.\n\nUse /deletethumbnail to clear it."
+    SAVED_CUSTOM_THUMB_NAIL = "Custom thumbnail saved✅. This will be permanent.\n\nUse /deletethumbnail to clear it."
 
-    DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully."
+    DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared ❌ succesfully ✔."
 
     CUSTOM_CAPTION_UL_FILE = " "
 
