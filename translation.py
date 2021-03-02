@@ -2,13 +2,13 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Asuran Hotstar Download Bot!
+This is a Hotstar Download Bot!
 
 <b>Please send me any Free Hotstar link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @SerialCoIng
+Support Group : @SeriesDiscussionForum
 """
 
     HELP_USER = """Hai I'am a Hotstar Downloader bot..
@@ -21,7 +21,7 @@ Support Group : @SerialCoIng
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @SerialCoIn
+Support Group : @SeriesDiscussionForum
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -49,6 +49,6 @@ URL | newfilename | username | password"""
 
     CUSTOM_CAPTION_UL_FILE = " "
 
-    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file."
 
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
